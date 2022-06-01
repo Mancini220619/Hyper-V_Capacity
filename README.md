@@ -8,11 +8,13 @@ Relatório em HTML
 No power shell executar comando:
 
 .\Get2012.ps1 -Cluster "Nome do Cluster"
+#
 .\Get2016.ps1 -Cluster "Nome do Cluster"
 
 ou
 
 .\Get2012.ps1 -VMHost "Nome do Host1,Nome do Host2"
+#
 .\Get2016.ps1 -VMHost "Nome do Host1,Nome do Host2"
 
 
